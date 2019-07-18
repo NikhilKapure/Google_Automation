@@ -8,11 +8,13 @@ Colomun AE1:AG6
 |3.1	| 10	 | More than 3 years|
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
+| From | To | Band |
+| --- | --- | --- |
+| 0 | 1 | Less than 1 years |
+| 1.1 | 2 | Less than 2 years |
+|  |  |  |  |
+| 2.1 | 3 | Less than 3 years |
+| 3.1 | 10 | More than 3 years |
 
 Column I 
 Purchase Date
