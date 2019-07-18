@@ -35,4 +35,4 @@ column F2
 Column I14
 Get Email ID =IFERROR(FILTER('Master Data'!D:D,'Master Data'!A:A=F3))
 
-![Screenshot](screenshot.png)
+![Screenshot](/Assets%20MGMT%20Automation/main_menu.png)
