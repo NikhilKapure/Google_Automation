@@ -1,6 +1,6 @@
 Colomun AE1:AG6
 
-|#From	|#To	|#Band|
+|From	|To	|Band|
 |0	|    1	 |Less than 1 years|
 |1.1 	|2	 | Less than 2 years|
 |	||	||
