@@ -1,13 +1,5 @@
 Colomun AE1:AG6
 
-|From	|To	|Band|
-|0|1|Less than 1 years|
-|1.1 	|2	 | Less than 2 years|
-|	||	||
-|2.1	 | 3	 | Less than 3 years|
-|3.1	| 10	 | More than 3 years|
-
-
 | From | To | Band |
 | --- | --- | --- |
 | 0 | 1 | Less than 1 years |
@@ -17,16 +9,16 @@ Colomun AE1:AG6
 | 3.1 | 10 | More than 3 years |
 
 Column I 
-Purchase Date
-17-Sep-2014
+| Purchase Date |
+| 17-Sep-2014 |
 
 Column V
-Vintage (years) =(today()-I2)/365
-4.83
+| Vintage (years) | =(today()-I2)/365
+| 4.83 |
 
 Column W
-Vintage band (years) =vlookup(V2,$AE$1:$AG$6,3,1)
-More than 3 years
+| Vintage band (years) | =vlookup(V2,$AE$1:$AG$6,3,1)
+| More than 3 years |
 
 Assest Menu -  
 Column A149 
