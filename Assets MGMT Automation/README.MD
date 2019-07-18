@@ -9,7 +9,7 @@ Colomun AE1:AG6
 | 3.1 | 10 | More than 3 years |
 
 Column I 
-| Purchase Date |
+| Purchase Date | 
 | 17-Sep-2014 |
 
 Column V
