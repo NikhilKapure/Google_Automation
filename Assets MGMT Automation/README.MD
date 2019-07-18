@@ -10,7 +10,6 @@ Colomun AE1:AG6
 
 Column I 
 | Purchase Date | 
-| --- |
 | 17-Sep-2014 |
 
 Column V
